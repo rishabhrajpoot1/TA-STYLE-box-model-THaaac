@@ -1,0 +1,11 @@
+img{
+    border: 10px seashell black;
+    border-radius: 12px;
+}h1{
+    border: 1px solid red;
+    background-color: #D18C1D;
+}
+p{
+    border: 2px dotted;
+    background-color: #D1D631;
+}
